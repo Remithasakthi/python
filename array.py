@@ -1,9 +1,9 @@
-def main():
+ def main():
     numbers=eval(input("give me an array of numbers:"))
-    smallest=numbers[0]
+    largest=numbers[0]
     for i in range(o,len(numbers),1):
-        if(numbers[i]<smallest):
+        if(numbers[i]>):
             smallest=numbers[i]
             print("The smallest number is:",smallest)
-main()           
+ main()           
     
