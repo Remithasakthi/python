@@ -1,7 +1,7 @@
- a = float(input(" Please enter the first Value a: "))
- b = float(input(" Please enter the second Value b: "))
- print("Before Swapping two Number: a = {0} and b = {1}".format(a, b))
+ a = float(input(" enter the first Value a: "))
+ b = float(input(" enter the second Value b: "))
+ print("before Swapping two Number: a = {0} and b = {1}".format(a, b))
  temp = a
  a = b
  b = temp
- print("After Swapping two Number: a = {0} and b = {1}".format(a, b))
+ print("after Swapping two Number: a = {0} and b = {1}".format(a, b))
